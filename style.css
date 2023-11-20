@@ -167,13 +167,13 @@ marquee :hover{
     background-position: center;
 }
 #card1{
-   background-image: url(images/burgur.jpg);
+   background-image: url("images/burgur.jpg");
 }
 #card2{
-    background-image: url(images/pasta.jpg);
+    background-image: url("images/pasta.jpg");
 }
 #card3{
-    background-image: url(images/pizza.jpg);
+    background-image: url("images/pizza.jpg");
 }
 .overlay{
     height: 30px;
